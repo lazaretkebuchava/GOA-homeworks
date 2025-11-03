@@ -21,19 +21,16 @@ print("house" * 3)
 #ეს კოდი გამოიტანს სიტყვა "house"-ს 3-ჯერ რადგან ვამრავლებთ 3 ზე
 
 #N7
-
 # სწორია
 print("this is string")
 # ან
 print("this is string")
-
 
 #N8 
 # არასწორია
 lesson = "math"
 print("lesson")
 # ტერმინალში სტრინგი "math" იმიტომ არ გამოდის რომ არაა საწიჭირო პრინტის გვერდზე lesson-ის ბრჭყალებში ჩასმა
-
 
 #სწორია
 lesson = "math"

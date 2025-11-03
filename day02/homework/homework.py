@@ -32,7 +32,6 @@ print(num * num1)
 print(num / num1)
 # 5.0
 
-
 # 4
 print(("lazare ")*20)
 

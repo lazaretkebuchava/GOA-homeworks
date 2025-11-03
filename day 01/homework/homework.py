@@ -2,7 +2,6 @@
 #parentheses - ფრჩხილები,
 #quotes - ბრჭყალები,
 
-
 #3
 name_surname = "demetre epkhoshvili"
 print(name_surname)
