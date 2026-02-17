@@ -1,12 +1,15 @@
 # 1 
+
 # Debugging - პროგრამაში,კოდში ხარვეზის პოვნა და შესწორება.
 
 # 2
+
 name = 14 
 name = 15 
 print(name)
 
 # 3
+
 animal = "dog"
 
 animal1 = "cat"
