@@ -1,0 +1,15 @@
+p{
+    text-align: center;
+    color: green;
+}
+
+h1{
+    text-align: right;
+    color: blue;
+    border: 1px dotted red;
+}
+
+button{
+    color: white;
+    background-color: red;
+}
